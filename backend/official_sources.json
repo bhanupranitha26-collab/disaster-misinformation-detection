@@ -1,0 +1,11 @@
+{
+  "Hyderabad": {
+    "casualties": 3,
+    "source": "NDMA",
+    "last_updated": "2026-02-27"
+  },
+  "Mumbai": {
+    "casualties": 5,
+    "source": "Disaster Authority"
+  }
+}
